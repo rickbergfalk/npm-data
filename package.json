@@ -1,0 +1,20 @@
+{
+  "name": "npm-data",
+  "author": "Rick Bergfalk <rick.bergfalk@gmail.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "async": "^2.0.1",
+    "fast-csv": "^2.1.0",
+    "follow": "^0.12.1",
+    "level": "^1.4.0",
+    "level-sublevel": "^6.5.4",
+    "lodash": "^4.13.1",
+    "moment": "^2.15.1",
+    "npm-download-counts": "^0.1.1",
+    "pg": "^6.0.3",
+    "pg-copy-streams": "^1.1.1",
+    "semver": "^5.3.0"
+  }
+}
